@@ -1,0 +1,189 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6C5A7CAF107561CB00C04580 /* WhatATool */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* WhatATool */;
+		addToTargets = (
+			8DD76F960486AA7600D96B5E /* WhatATool */,
+		);
+		breakpoints = (
+			6CDD80DD1075918A00C21D4E /* WhatATool.c:108 */,
+		);
+		codeSenseManager = 6C5A7CB8107561D000C04580 /* Code sense */;
+		executables = (
+			6C5A7CAF107561CB00C04580 /* WhatATool */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					993,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 276438897;
+			PBXWorkspaceStateSaveDate = 276438897;
+		};
+		perUserProjectItems = {
+			6C57BD4D107A1EC200C58AB8 /* PBXTextBookmark */ = 6C57BD4D107A1EC200C58AB8 /* PBXTextBookmark */;
+			6C57BD69107A1F9000C58AB8 /* PBXTextBookmark */ = 6C57BD69107A1F9000C58AB8 /* PBXTextBookmark */;
+			6C7110861078543200C6187D /* PBXTextBookmark */ = 6C7110861078543200C6187D /* PBXTextBookmark */;
+			6C9C3BA0107A1E2E008395BC /* PBXTextBookmark */ = 6C9C3BA0107A1E2E008395BC /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6C5A7CB7107561D000C04580 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* WhatATool.c */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.c;
+		name = WhatATool.c;
+		path = "/Users/willijb/Documents/00-Apple/00-Projects/WhatATool/WhatATool.c";
+		sourceTree = "<absolute>";
+	};
+	32A70AAB03705E1F00C91783 /* WhatATool_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 183}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 160}";
+		};
+	};
+	6C57BD4D107A1EC200C58AB8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C9C3B9C107A1E1E008395BC /* WhatATool.m */;
+		name = "WhatATool.m: 20";
+		rLen = 0;
+		rLoc = 560;
+		rType = 0;
+		vrLen = 1088;
+		vrLoc = 0;
+	};
+	6C57BD69107A1F9000C58AB8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C9C3B9C107A1E1E008395BC /* WhatATool.m */;
+		name = "WhatATool.m: 20";
+		rLen = 0;
+		rLoc = 560;
+		rType = 0;
+		vrLen = 1086;
+		vrLoc = 0;
+	};
+	6C5A7CAF107561CB00C04580 /* WhatATool */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = WhatATool;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6C5A7CB7107561D000C04580 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6C5A7CB8107561D000C04580 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6C7110861078543200C6187D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32A70AAB03705E1F00C91783 /* WhatATool_Prefix.pch */;
+		name = "WhatATool_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 160;
+		vrLoc = 0;
+	};
+	6C9C3B9C107A1E1E008395BC /* WhatATool.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 1625}}";
+			sepNavSelRange = "{560, 0}";
+			sepNavVisRange = "{0, 1086}";
+		};
+	};
+	6C9C3BA0107A1E2E008395BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C6859EA3029092ED04C91782 /* WhatATool.1 */;
+		name = "WhatATool.1: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1847;
+		vrLoc = 0;
+	};
+	6CDD80DD1075918A00C21D4E /* WhatATool.c:108 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 08FB7796FE84155DC02AAC07 /* WhatATool.c */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 108;
+		modificationTime = 276216657.168957;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	8DD76F960486AA7600D96B5E /* WhatATool */ = {
+		activeExec = 0;
+		executables = (
+			6C5A7CAF107561CB00C04580 /* WhatATool */,
+		);
+	};
+	C6859EA3029092ED04C91782 /* WhatATool.1 */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 975}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1847}";
+		};
+	};
+}

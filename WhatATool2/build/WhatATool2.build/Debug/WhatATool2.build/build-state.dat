@@ -1,0 +1,137 @@
+TWhatATool2
+v7
+r0
+t276717205.967534
+cCheck dependencies
+cProcessPCH /var/folders/Px/PxgxaCtAFVOAfKgwZtfcM4zPDNU/-Caches-/com.apple.Xcode.1876639128/SharedPrecompiledHeaders/WhatATool2_Prefix-dxwgcllzwukqjshaidcqlinixiyu/WhatATool2_Prefix.pch.gch WhatATool2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WhatATool2.build/Debug/WhatATool2.build/Objects-normal/i386/WhatATool2.o /Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/WhatATool2.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WhatATool2.build/Debug/WhatATool2.build/Objects-normal/i386/PolygonShape.o /Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/PolygonShape.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/Debug/WhatATool2 normal i386
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004A49A9E400000000000000EE
+t1246341604
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004864A1C900000000000012EE
+t1214554569
+s4846
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A600BCB0000000000B37450
+t1247808459
+s11760720
+
+N/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/PolygonShape.h
+c000000004ACE267A0000000000000283
+t1255024250
+s643
+i<Cocoa/Cocoa.h>
+i<Foundation/Foundation.h>
+
+N/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/PolygonShape.m
+c000000004ACEBD690000000000000188
+t1255062889
+s392
+i<Foundation/Foundation.h>
+i"PolygonShape.h"
+
+N/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/WhatATool2.m
+c000000004ACE21BE0000000000000EE6
+t1255023038
+s3814
+i<Foundation/Foundation.h>
+
+N/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/WhatATool2_Prefix.pch
+c000000004AC81F8E00000000000000A2
+t1254629262
+s162
+i<Foundation/Foundation.h>
+
+N/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/Debug/WhatATool2
+t1255024405
+s19496
+
+N/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/WhatATool2.build/Debug/WhatATool2.build/Objects-normal/i386/PolygonShape.o
+t1255024405
+s6852
+
+N/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/WhatATool2.build/Debug/WhatATool2.build/Objects-normal/i386/WhatATool2.LinkFileList
+c000000004AC933C20000000000000112
+t1254699970
+s274
+
+N/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/WhatATool2.build/Debug/WhatATool2.build/Objects-normal/i386/WhatATool2.o
+t1255023038
+s16592
+
+N/var/folders/Px/PxgxaCtAFVOAfKgwZtfcM4zPDNU/-Caches-/com.apple.Xcode.1876639128/SharedPrecompiledHeaders/WhatATool2_Prefix-dxwgcllzwukqjshaidcqlinixiyu/WhatATool2_Prefix.pch.gch
+t1255022984
+s41744368
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies276717205#276717205#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/WhatATool2.build/Debug/WhatATool2.build/Objects-normal/i386/PolygonShape.o /Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/PolygonShape.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s276717205.503039
+e276717205.893601
+r1
+xCompileC
+xbuild/WhatATool2.build/Debug/WhatATool2.build/Objects-normal/i386/PolygonShape.o
+x/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/PolygonShape.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/PolygonShape.m:20: warning: property 'minimumNumberOfSides' requires method '-minimumNumberOfSides' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/PolygonShape.m:20: warning: property 'minimumNumberOfSides' requires the method 'setMinimumNumberOfSides:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/PolygonShape.m:20: warning: property 'maximumNumberOfSides' requires method '-maximumNumberOfSides' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/PolygonShape.m:20: warning: property 'maximumNumberOfSides' requires the method 'setMaximumNumberOfSides:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/PolygonShape.m:20: warning: property 'angleInDegrees' requires method '-angleInDegrees' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/PolygonShape.m:20: warning: property 'angleInRadians' requires method '-angleInRadians' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/PolygonShape.m:20: warning: property 'name' requires method '-name' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@79"Compile /Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/PolygonShape.m276717205#276717205#0(1596"/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/PolygonShape.m:20: warning: property 'minimumNumberOfSides' requires method '-minimumNumberOfSides' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/PolygonShape.m:20: warning: property 'minimumNumberOfSides' requires the method 'setMinimumNumberOfSides:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/PolygonShape.m:20: warning: property 'maximumNumberOfSides' requires method '-maximumNumberOfSides' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/PolygonShape.m:20: warning: property 'maximumNumberOfSides' requires the method 'setMaximumNumberOfSides:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/PolygonShape.m:20: warning: property 'angleInDegrees' requires method '-angleInDegrees' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/PolygonShape.m:20: warning: property 'angleInRadians' requires method '-angleInRadians' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/PolygonShape.m:20: warning: property 'name' requires method '-name' to be defined - use @synthesize, @dynamic or provide a method implementation7(22@148"Property 'minimumNumberOfSides' requires method '-minimumNumberOfSides' to be defined - use @synthesize, @dynamic or provide a method implementation276717205#0#234#0(6@71"/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/PolygonShape.m276717204#20#0#20#0#0"0(22@155"Property 'minimumNumberOfSides' requires the method 'setMinimumNumberOfSides:' to be defined - use @synthesize, @dynamic or provide a method implementation276717205#234#241#0(6@71"/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/PolygonShape.m276717204#20#0#20#0#0"0(22@148"Property 'maximumNumberOfSides' requires method '-maximumNumberOfSides' to be defined - use @synthesize, @dynamic or provide a method implementation276717205#475#234#0(6@71"/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/PolygonShape.m276717204#20#0#20#0#0"0(22@155"Property 'maximumNumberOfSides' requires the method 'setMaximumNumberOfSides:' to be defined - use @synthesize, @dynamic or provide a method implementation276717205#709#241#0(6@71"/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/PolygonShape.m276717204#20#0#20#0#0"0(22@136"Property 'angleInDegrees' requires method '-angleInDegrees' to be defined - use @synthesize, @dynamic or provide a method implementation276717205#950#222#0(6@71"/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/PolygonShape.m276717204#20#0#20#0#0"0(22@136"Property 'angleInRadians' requires method '-angleInRadians' to be defined - use @synthesize, @dynamic or provide a method implementation276717205#1172#222#0(6@71"/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/PolygonShape.m276717204#20#0#20#0#0"0(22@116"Property 'name' requires method '-name' to be defined - use @synthesize, @dynamic or provide a method implementation276717205#1394#202#0(6@71"/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/PolygonShape.m276717204#20#0#20#0#0"0(0#0#71"/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/PolygonShape.m4300882208#1723"    cd /Users/willijb/Documents/00-Apple/00-Projects/WhatATool2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/WhatATool2.build/Debug/WhatATool2.build/WhatATool2-generated-files.hmap -I/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/WhatATool2.build/Debug/WhatATool2.build/WhatATool2-own-target-headers.hmap -I/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/WhatATool2.build/Debug/WhatATool2.build/WhatATool2-all-target-headers.hmap -iquote /Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/WhatATool2.build/Debug/WhatATool2.build/WhatATool2-project-headers.hmap -F/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/Debug -I/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/Debug/include -I/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/WhatATool2.build/Debug/WhatATool2.build/DerivedSources/i386 -I/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/WhatATool2.build/Debug/WhatATool2.build/DerivedSources -include /var/folders/Px/PxgxaCtAFVOAfKgwZtfcM4zPDNU/-Caches-/com.apple.Xcode.1876639128/SharedPrecompiledHeaders/WhatATool2_Prefix-dxwgcllzwukqjshaidcqlinixiyu/WhatATool2_Prefix.pch -c /Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/PolygonShape.m -o /Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/WhatATool2.build/Debug/WhatATool2.build/Objects-normal/i386/PolygonShape.o0#
+
+CCompileC build/WhatATool2.build/Debug/WhatATool2.build/Objects-normal/i386/WhatATool2.o /Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/WhatATool2.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s276715838.164926
+e276715838.494325
+r1
+xCompileC
+xbuild/WhatATool2.build/Debug/WhatATool2.build/Objects-normal/i386/WhatATool2.o
+x/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/WhatATool2.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/WhatATool2.m276715838#276715838#0(0"0(0#0#69"/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/WhatATool2.m4300882208#1719"    cd /Users/willijb/Documents/00-Apple/00-Projects/WhatATool2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/WhatATool2.build/Debug/WhatATool2.build/WhatATool2-generated-files.hmap -I/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/WhatATool2.build/Debug/WhatATool2.build/WhatATool2-own-target-headers.hmap -I/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/WhatATool2.build/Debug/WhatATool2.build/WhatATool2-all-target-headers.hmap -iquote /Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/WhatATool2.build/Debug/WhatATool2.build/WhatATool2-project-headers.hmap -F/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/Debug -I/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/Debug/include -I/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/WhatATool2.build/Debug/WhatATool2.build/DerivedSources/i386 -I/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/WhatATool2.build/Debug/WhatATool2.build/DerivedSources -include /var/folders/Px/PxgxaCtAFVOAfKgwZtfcM4zPDNU/-Caches-/com.apple.Xcode.1876639128/SharedPrecompiledHeaders/WhatATool2_Prefix-dxwgcllzwukqjshaidcqlinixiyu/WhatATool2_Prefix.pch -c /Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/WhatATool2.m -o /Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/WhatATool2.build/Debug/WhatATool2.build/Objects-normal/i386/WhatATool2.o0#
+
+CLd /Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/Debug/WhatATool2 normal i386
+s276717205.893680
+e276717205.967492
+r1
+xLd
+x/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/Debug/WhatATool2
+xnormal
+xi386
+lSLF07#2@84"Link /Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/Debug/WhatATool2276717205#276717205#0(0"0(0#0#0"4300882208#618"    cd /Users/willijb/Documents/00-Apple/00-Projects/WhatATool2    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/Debug -F/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/Debug -filelist /Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/WhatATool2.build/Debug/WhatATool2.build/Objects-normal/i386/WhatATool2.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -o /Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/Debug/WhatATool20#
+
+CProcessPCH /var/folders/Px/PxgxaCtAFVOAfKgwZtfcM4zPDNU/-Caches-/com.apple.Xcode.1876639128/SharedPrecompiledHeaders/WhatATool2_Prefix-dxwgcllzwukqjshaidcqlinixiyu/WhatATool2_Prefix.pch.gch WhatATool2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s276715780.982076
+e276715784.976837
+r1
+xProcessPCH
+x/var/folders/Px/PxgxaCtAFVOAfKgwZtfcM4zPDNU/-Caches-/com.apple.Xcode.1876639128/SharedPrecompiledHeaders/WhatATool2_Prefix-dxwgcllzwukqjshaidcqlinixiyu/WhatATool2_Prefix.pch.gch
+xWhatATool2_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile WhatATool2_Prefix.pch276715781#276715784#0(0"0(0#0#78"/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/WhatATool2_Prefix.pch7018095190362318848#1594"    cd /Users/willijb/Documents/00-Apple/00-Projects/WhatATool2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/WhatATool2.build/Debug/WhatATool2.build/WhatATool2-generated-files.hmap -I/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/WhatATool2.build/Debug/WhatATool2.build/WhatATool2-own-target-headers.hmap -I/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/WhatATool2.build/Debug/WhatATool2.build/WhatATool2-all-target-headers.hmap -iquote /Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/WhatATool2.build/Debug/WhatATool2.build/WhatATool2-project-headers.hmap -F/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/Debug -I/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/Debug/include -I/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/WhatATool2.build/Debug/WhatATool2.build/DerivedSources/i386 -I/Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/build/WhatATool2.build/Debug/WhatATool2.build/DerivedSources -c /Users/willijb/Documents/00-Apple/00-Projects/WhatATool2/WhatATool2_Prefix.pch -o /var/folders/Px/PxgxaCtAFVOAfKgwZtfcM4zPDNU/-Caches-/com.apple.Xcode.1876639128/SharedPrecompiledHeaders/WhatATool2_Prefix-dxwgcllzwukqjshaidcqlinixiyu/WhatATool2_Prefix.pch.gch0#
+

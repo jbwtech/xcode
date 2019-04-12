@@ -1,0 +1,227 @@
+TSliderTest
+v7
+r0
+t276438096.874900
+cCheck dependencies
+cProcessInfoPlistFile /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/SliderTest.app/Info.plist SliderTest-Info.plist
+cCompileXIB /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/MainWindow.xib
+cProcessPCH /var/folders/Px/PxgxaCtAFVOAfKgwZtfcM4zPDNU/-Caches-/com.apple.Xcode.1876639128/SharedPrecompiledHeaders/SliderTest_Prefix-fxuajjmzabyamhfeznblpkmpzelu/SliderTest_Prefix.pch.gch SliderTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/Objects-normal/i386/main.o /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/Objects-normal/i386/SliderTestAppDelegate.o /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/Classes/SliderTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/Objects-normal/i386/Controller.o /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/Controller.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/SliderTest.app/SliderTest normal i386
+cGenerateDSYMFile /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/SliderTest.app.dSYM /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/SliderTest.app/SliderTest
+cTouch /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/SliderTest.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk
+c000000004AC27BE300000000000000EE
+t1254259683
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A821911000000000026EE30
+t1250040081
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A765094000000000027E880
+t1249267860
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7650820000000000001355
+t1249267842
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E970000000000000788
+t1249668759
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6F5900000000016721E0
+t1249668953
+s23536096
+
+N/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/Classes/SliderTestAppDelegate.h
+c000000004AC409050000000000000155
+t1254361349
+s341
+i<UIKit/UIKit.h>
+
+N/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/Classes/SliderTestAppDelegate.m
+c000000004AC4090500000000000001F2
+t1254361349
+s498
+i"SliderTestAppDelegate.h"
+
+N/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/Controller.h
+c000000004AC40F4800000000000000BC
+t1254362952
+s188
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/Controller.m
+c000000004AC40F48000000000000009B
+t1254362952
+s155
+i"Controller.h"
+
+N/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/MainWindow.xib
+c000000004AC507CE0000000000003476
+t1254426574
+s13430
+
+N/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/SliderTest_Prefix.pch
+c000000004AC4090500000000000000BD
+t1254361349
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/SliderTest.app
+t1254745296
+s204
+
+N/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/SliderTest.app.dSYM
+t1254745296
+s102
+
+N/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/SliderTest.app/Info.plist
+t1254362963
+s548
+
+N/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/SliderTest.app/MainWindow.nib
+t1254426854
+s1764
+
+N/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/SliderTest.app/PkgInfo
+t1254362963
+s8
+
+N/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/SliderTest.app/SliderTest
+t1254745296
+s19076
+
+N/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/Objects-normal/i386/Controller.o
+t1254745296
+s10876
+
+N/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/Objects-normal/i386/SliderTest.LinkFileList
+c000000004AC9E4CF00000000000001CD
+t1254745295
+s461
+
+N/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/Objects-normal/i386/SliderTestAppDelegate.o
+t1254745296
+s17244
+
+N/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/Objects-normal/i386/main.o
+t1254745296
+s5980
+
+N/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/main.m
+c000000004AC409050000000000000171
+t1254361349
+s369
+i<UIKit/UIKit.h>
+
+N/var/folders/Px/PxgxaCtAFVOAfKgwZtfcM4zPDNU/-Caches-/com.apple.Xcode.1876639128/SharedPrecompiledHeaders/SliderTest_Prefix-fxuajjmzabyamhfeznblpkmpzelu/SliderTest_Prefix.pch.gch
+t1254745296
+s13034960
+
+NSliderTest-Info.plist
+c000000004AC40905000000000000038D
+t1254361349
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies276438095#276438095#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/Objects-normal/i386/Controller.o /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/Controller.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s276438096.493000
+e276438096.535126
+r1
+xCompileC
+xbuild/SliderTest.build/Debug-iphonesimulator/SliderTest.build/Objects-normal/i386/Controller.o
+x/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/Controller.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/Controller.m276438096#276438096#0(0"0(0#0#69"/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/Controller.m4300882208#2134"    cd /Users/willijb/Documents/00-Apple/00-Projects/SliderTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/SliderTest-generated-files.hmap -I/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/SliderTest-own-target-headers.hmap -I/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/SliderTest-all-target-headers.hmap -iquote /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/SliderTest-project-headers.hmap -F/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator -I/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/include -I/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/DerivedSources/i386 -I/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/DerivedSources -include /var/folders/Px/PxgxaCtAFVOAfKgwZtfcM4zPDNU/-Caches-/com.apple.Xcode.1876639128/SharedPrecompiledHeaders/SliderTest_Prefix-fxuajjmzabyamhfeznblpkmpzelu/SliderTest_Prefix.pch -c /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/Controller.m -o /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/Objects-normal/i386/Controller.o0#
+
+CCompileC build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/Objects-normal/i386/SliderTestAppDelegate.o /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/Classes/SliderTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s276438096.350656
+e276438096.495536
+r1
+xCompileC
+xbuild/SliderTest.build/Debug-iphonesimulator/SliderTest.build/Objects-normal/i386/SliderTestAppDelegate.o
+x/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/Classes/SliderTestAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/Classes/SliderTestAppDelegate.m276438096#276438096#0(0"0(0#0#88"/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/Classes/SliderTestAppDelegate.m4300882208#2164"    cd /Users/willijb/Documents/00-Apple/00-Projects/SliderTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/SliderTest-generated-files.hmap -I/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/SliderTest-own-target-headers.hmap -I/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/SliderTest-all-target-headers.hmap -iquote /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/SliderTest-project-headers.hmap -F/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator -I/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/include -I/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/DerivedSources/i386 -I/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/DerivedSources -include /var/folders/Px/PxgxaCtAFVOAfKgwZtfcM4zPDNU/-Caches-/com.apple.Xcode.1876639128/SharedPrecompiledHeaders/SliderTest_Prefix-fxuajjmzabyamhfeznblpkmpzelu/SliderTest_Prefix.pch -c /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/Classes/SliderTestAppDelegate.m -o /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/Objects-normal/i386/SliderTestAppDelegate.o0#
+
+CCompileC build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/Objects-normal/i386/main.o /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s276438096.349800
+e276438096.492904
+r1
+xCompileC
+xbuild/SliderTest.build/Debug-iphonesimulator/SliderTest.build/Objects-normal/i386/main.o
+x/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/main.m276438096#276438096#0(0"0(0#0#63"/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/main.m4300882208#2122"    cd /Users/willijb/Documents/00-Apple/00-Projects/SliderTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/SliderTest-generated-files.hmap -I/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/SliderTest-own-target-headers.hmap -I/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/SliderTest-all-target-headers.hmap -iquote /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/SliderTest-project-headers.hmap -F/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator -I/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/include -I/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/DerivedSources/i386 -I/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/DerivedSources -include /var/folders/Px/PxgxaCtAFVOAfKgwZtfcM4zPDNU/-Caches-/com.apple.Xcode.1876639128/SharedPrecompiledHeaders/SliderTest_Prefix-fxuajjmzabyamhfeznblpkmpzelu/SliderTest_Prefix.pch -c /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/main.m -o /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/MainWindow.xib
+r0
+
+CGenerateDSYMFile /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/SliderTest.app.dSYM /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/SliderTest.app/SliderTest
+s276438096.790306
+e276438096.862621
+r1
+xGenerateDSYMFile
+x/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/SliderTest.app.dSYM
+x/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/SliderTest.app/SliderTest
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/SliderTest.app.dSYM build/Debug-iphonesimulator/SliderTest.app/SliderTest276438096#276438096#0(0"0(0#0#110"/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/SliderTest.app/SliderTest4300882208#446"    cd /Users/willijb/Documents/00-Apple/00-Projects/SliderTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/SliderTest.app/SliderTest -o /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/SliderTest.app.dSYM0#
+
+CLd /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/SliderTest.app/SliderTest normal i386
+s276438096.535213
+e276438096.790207
+r1
+xLd
+x/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/SliderTest.app/SliderTest
+xnormal
+xi386
+lSLF07#2@115"Link /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/SliderTest.app/SliderTest276438096#276438096#0(0"0(0#0#0"4300882208#967"    cd /Users/willijb/Documents/00-Apple/00-Projects/SliderTest    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -L/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator -F/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator -filelist /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/Objects-normal/i386/SliderTest.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/SliderTest.app/SliderTest0#
+
+CProcessInfoPlistFile /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/SliderTest.app/Info.plist SliderTest-Info.plist
+r0
+
+CProcessPCH /var/folders/Px/PxgxaCtAFVOAfKgwZtfcM4zPDNU/-Caches-/com.apple.Xcode.1876639128/SharedPrecompiledHeaders/SliderTest_Prefix-fxuajjmzabyamhfeznblpkmpzelu/SliderTest_Prefix.pch.gch SliderTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s276438095.685563
+e276438096.349703
+r1
+xProcessPCH
+x/var/folders/Px/PxgxaCtAFVOAfKgwZtfcM4zPDNU/-Caches-/com.apple.Xcode.1876639128/SharedPrecompiledHeaders/SliderTest_Prefix-fxuajjmzabyamhfeznblpkmpzelu/SliderTest_Prefix.pch.gch
+xSliderTest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile SliderTest_Prefix.pch276438095#276438096#0(0"0(0#0#78"/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/SliderTest_Prefix.pch7018095190362318848#1993"    cd /Users/willijb/Documents/00-Apple/00-Projects/SliderTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/SliderTest-generated-files.hmap -I/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/SliderTest-own-target-headers.hmap -I/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/SliderTest-all-target-headers.hmap -iquote /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/SliderTest-project-headers.hmap -F/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator -I/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/include -I/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/DerivedSources/i386 -I/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/SliderTest.build/Debug-iphonesimulator/SliderTest.build/DerivedSources -c /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/SliderTest_Prefix.pch -o /var/folders/Px/PxgxaCtAFVOAfKgwZtfcM4zPDNU/-Caches-/com.apple.Xcode.1876639128/SharedPrecompiledHeaders/SliderTest_Prefix-fxuajjmzabyamhfeznblpkmpzelu/SliderTest_Prefix.pch.gch0#
+
+CTouch /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/SliderTest.app
+s276438096.862719
+e276438096.874844
+r1
+xTouch
+x/Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/SliderTest.app
+lSLF07#2@105"Touch /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/SliderTest.app276438096#276438096#0(0"0(0#0#0"4300882208#317"    cd /Users/willijb/Documents/00-Apple/00-Projects/SliderTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/willijb/Documents/00-Apple/00-Projects/SliderTest/build/Debug-iphonesimulator/SliderTest.app0#
+
